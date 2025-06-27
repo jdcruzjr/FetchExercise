@@ -3,7 +3,7 @@ Fetch Exercise
 Description:
   An Android app that displays a ListView containing items retrieved from a Fetch API that is parsed to exclude items with blank or null names. Items are sorted first by their list id and their name.
 
-Running the Project:
+Running the Project
   - Clone the repository: git clone https://github.com/jdcruzjr/FetchExercise.git
   - Open the project in Android Studio
   - Build and run the app on the emulator
